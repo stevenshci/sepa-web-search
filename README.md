@@ -29,11 +29,13 @@ Implementation of the web search component from "SePA: A Search-enhanced Predict
   author={Ozolcer, Melik and Bae, Sang Won},
   journal={arXiv preprint arXiv:2509.04752},
   year={2025}
-}```
+}
+```
 
 ## Notes
 
 - Paper version preserves the exact implementation for reproducibility
 - Improved version includes production optimizations not described in the paper
 - See individual directories for detailed documentation
+
 
