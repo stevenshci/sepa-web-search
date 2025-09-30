@@ -1,7 +1,3 @@
-# SePA Web-Search Pipeline
-
-Implementation of the web-search pipeline from "SePA: A Search-enhanced Predictive Agent for Personalized Health Coaching" (IEEE BHI 2025).
-
 # SePA Web Search Pipeline
 
 Implementation of the web search component from "SePA: A Search-enhanced Predictive Agent for Personalized Health Coaching" (IEEE BHI 2025).
@@ -13,7 +9,7 @@ Implementation of the web search component from "SePA: A Search-enhanced Predict
 - Single-query search, CPU-based processing
 - Use for reproducing paper results
 
-**`improved-version/`** - Improved implementation
+**`improved-search/`** - Improved implementation
 
 - Multi-query expansion, GPU acceleration, RRF ranking, improved fetching and processing of sources.
 - Use for production deployments
@@ -40,3 +36,4 @@ Implementation of the web search component from "SePA: A Search-enhanced Predict
 - Paper version preserves the exact implementation for reproducibility
 - Improved version includes production optimizations not described in the paper
 - See individual directories for detailed documentation
+
